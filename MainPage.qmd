@@ -1,0 +1,51 @@
+---
+title: "MainPage"
+format: html
+editor: visual
+
+links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/christopher-taratko-63a59524a/
+    - icon: mailbox
+      text: Email
+      href: mailto:cmt101@geneseo.edu
+---
+
+# Who We Are
+
+##### SUNY Geneseo Hillel is a Student-ran organization funded by Hillel International ([Hillel](https://www.hillel.org/about/#:~:text=Our%20Vision&text=Today%2C%20Hillel%20is%20the%20largest,and%20universities%20around%20the%20world.)). We work with a coordinator to help us plan events for Jewish Students on campus, along with those that take an interest in the topic of Judaism.
+
+## E-Board Members
+
+Director/Coordinator: Gwyneth Jones-Wenninger
+
+President: Kaleigh Silverstein
+
+Treasurer: Christopher Taratko
+
+Marketing: Phoebe Brenner
+
+Historian: James Flockhart
+
+## What We Stand For
+
+## Where We're Located:
+
+Geneseo Hillel is located in the Interfaith Center (IFC), which is located on 11 Franklin St, Geneseo, NY 14454.
+
+### Contact Information:
+
+Phone \# (IFC): (585)-243-1460
+
+email: hillel\@geneseo.edu
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+`{r} #| echo: false 2 * 2}`
+
+The `echo: false` option disables the printing of code (only output is displayed).
